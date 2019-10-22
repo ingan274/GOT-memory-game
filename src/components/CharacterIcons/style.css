@@ -1,0 +1,26 @@
+:root {
+    --black: #252429;
+    --lgt-grey: #e5e6ea;
+    --charcoal: #403c39;
+    --light-blue: #403c39;
+    --slate-blue: #587388;
+
+    --font: 'Cinzel Decorative', cursive;
+    /* 400,700,900 */
+}
+
+.characterCard {
+    display: inline;
+    margin: 10px auto;
+    width: 20%;
+}
+
+.img {
+    width: 70%;
+    border-radius: 150px;
+    border: 7px solid var(--slate-blue);
+}
+
+.img:hover {
+    border: 7px solid var(--lgt-grey);
+}

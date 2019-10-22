@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Jon Snow",
+        "image": "./imgs/GOT1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Daenerys Targaryen",
+        "image": "./imgs/GOT2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Cersei Lannister",
+        "image": "./imgs/GOT3.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Jaime Lannister",
+        "image": "./imgs/GOT4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Tyrion Lannister",
+        "image": "./imgs/GOT5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Arya Stark",
+        "image": "./imgs/GOT6.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Sansa Stark",
+        "image": "./imgs/GOT7.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Bran Stark",
+        "image": "./imgs/GOT8.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Brienne of Tarth",
+        "image": "./imgs/GOT9.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Grey Worm",
+        "image": "./imgs/GOT10.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Missandei",
+        "image": "./imgs/GOT11.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Samwell Tarly",
+        "image": "./imgs/GOT12.jpg",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "name": "Night King",
+        "image": "./imgs/GOT13.jpg",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "name": "Sandor Clegane",
+        "image": "./imgs/GOT14.jpg",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "name": "Lord Varys",
+        "image": "./imgs/GOT15.jpg",
+        "clicked": false
+    }
+]

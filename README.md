@@ -1,2 +1,2 @@
-# GOT-memory-game
-Game of Thrones Memory Game using React
+# Game of Thrones Memory Game
+Memory Game using Node, Express, and React

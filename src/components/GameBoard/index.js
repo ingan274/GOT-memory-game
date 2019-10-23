@@ -82,6 +82,7 @@ class Gameboard extends Component {
             // if they get all of it!
             if (currentScore === 56) {
                 message = "Huzzah! You have defeated the Night King!";
+                currentScore = 0;
                 topScore = 0;
                 hearts = 3;
                 this.setState({ topScore });

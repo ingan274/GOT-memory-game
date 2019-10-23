@@ -1,0 +1,16 @@
+:root {
+    --black: #252429;
+    --lgt-grey: #e5e6ea;
+    --charcoal: #403c39;
+    --light-blue: #403c39;
+    --slate-blue: #587388;
+
+    --font: 'Cinzel Decorative', cursive;
+    /* 400,700,900 */
+}
+
+.gameBoard {
+    background-color: var(--black);
+    padding: 30px 50px;
+    text-align: center;
+}

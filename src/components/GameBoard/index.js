@@ -80,7 +80,7 @@ class Gameboard extends Component {
 
 
             // if they get all of it!
-            if (currentScore === 60) {
+            if (currentScore === 56) {
                 message = "Huzzah! You have defeated the Night King!";
                 topScore = 0;
                 hearts = 3;

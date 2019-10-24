@@ -4,7 +4,7 @@ Don't click on the same picture twice!
 #### Clicky Game: Game of Thrones Edition!
 <img src="https://media.giphy.com/media/25aH3LlslgXcsO9rMq/giphy.gif">
 
-Your favorite characters are here to test your observation skills. Let's see if if you can impress Tyrion Lannister!
+Your favorite characters are here to test your observation skills. Let's see if you can impress Tyrion Lannister!
 
 The rules of the game are simple: 
 

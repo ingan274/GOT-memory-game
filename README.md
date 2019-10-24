@@ -14,6 +14,8 @@ The rules of the game are simple:
 3. The pictures will reshuffle after every click, to keep things interesting.
 ##### Can you get all 15 right? Try it Here: https://game-of-thrones-memorygame.netlify.com/
 
+<img src="/public/imgs/got.gif">
+
 ## Technologies Used  
 * React
 
